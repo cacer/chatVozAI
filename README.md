@@ -15,6 +15,7 @@ Asegúrate de tener instaladas las siguientes dependencias:
 '''pip install openai'''
 
 **speech_recognition** (puedes instalarlo mediante pip install SpeechRecognition). Este punto es para realizar las preguntas por voz, mediante sistema como Whisper. Lo veremos mas adelate cuando solucione mi problema de microfono con alsa.
+
 **Piper** Además, necesitarás instalar piper y descargar un modelo, Aqui su repositorio con sintrucciones. [PIPER] (https://github.com/rhasspy/piper) Te recomiendo que veas otros repositorios de rhasspy.
 
 
